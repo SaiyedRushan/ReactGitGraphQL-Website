@@ -1,9 +1,14 @@
 # React App with GraphQL
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Learnt some basic graphQL queries and how to use React to display the information that we get from the github graphql api.
+
+# Screenshots
+![Code-Saturday-06_50_27_PM](https://user-images.githubusercontent.com/70185785/151704851-e48937b2-0395-446e-abb0-546ebd86ab2e.jpg)
+![Code-Saturday-06_50_57_PM](https://user-images.githubusercontent.com/70185785/151704852-8941f159-c7fc-411f-a116-3bba8d6ee516.jpg)
 
 ## Available Scripts
 
+This project was bootstrapped with bootstrap and [Create React App](https://github.com/facebook/create-react-app).
 In the project directory, you can run:
 
 ### `npm start`
