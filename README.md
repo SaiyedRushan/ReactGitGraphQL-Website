@@ -1,7 +1,7 @@
 # React App with GraphQL
 
 Learnt some basic graphQL queries and how to use React to display the information that we get from the github graphql api.
-*This project was made as part of the React GraphQL course by Ray Villalobos on [Linkedin Learning](https://www.linkedin.com/learning/building-a-graphql-project-with-react-js/why-use-react-with-graphql-for-projects) *
+*This project was made as part of the React GraphQL course by Ray Villalobos on [Linkedin Learning](https://www.linkedin.com/learning/building-a-graphql-project-with-react-js/why-use-react-with-graphql-for-projects)*
 
 
 # Screenshots
